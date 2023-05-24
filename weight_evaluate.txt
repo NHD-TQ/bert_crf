@@ -1,0 +1,7 @@
+weight bert: https://drive.google.com/drive/folders/1mUUcR4J6416OYLokyNc5M0VLYoi0j52Z?usp=sharing
+weight bert_crf:
+https://drive.google.com/drive/folders/1X_e-YJjiMY8kh5yqgEYdLiGnVf8KNP6N?usp=sharing
+
+
+evaluate model :
+https://docs.google.com/spreadsheets/d/1fL-3MrmiClnuJmNKQtxz3gzeKXBn6fHG7FL-VrbsiF4/edit?usp=sharing
