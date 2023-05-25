@@ -1,0 +1,5 @@
+numpy
+matplotlib
+torch
+tqdm
+pytorch_pretrained_bert==0.4.0
